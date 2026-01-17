@@ -1,1 +1,1 @@
-# eazybytes-config
+# charan-config
